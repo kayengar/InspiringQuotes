@@ -20,7 +20,7 @@ Steps to run application:
     $ python app.py
     
 2. Open the browser and enter:
-   http://localhost:5000/<author-name>
+   http://localhost:5000/$author-name
    
 
 Happy reading and getting inspired! 
